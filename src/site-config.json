@@ -1,0 +1,598 @@
+{
+  "business": {
+    "name": "Minneapolis Emergency Electrical Services",
+    "phone": "+16122540599",
+    "category": "electrical contractor",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Minneapolis's Electrical Emergency Experts",
+      "heroSubline": "Fast, reliable electrical services when you need them most. Licensed and insured for your peace of mind.",
+      "aboutTitle": "Powering Minneapolis Homes and Businesses",
+      "aboutText": [
+        "Minneapolis Emergency Electrical Services started with a simple mission: to provide dependable electrical solutions for our neighbors. We've seen firsthand the chaos a sudden power outage or electrical malfunction can cause, especially during our harsh Minnesota winters. That's why we're committed to rapid response and lasting repairs.",
+        "Our approach is rooted in honesty, transparency, and quality workmanship. We don't cut corners, and we always explain the problem and the solution in clear, understandable terms. We treat every property as if it were our own, ensuring minimal disruption and maximum safety.",
+        "We're proud to be a part of the Minneapolis community. We support local initiatives and prioritize hiring local talent. Our success is directly tied to the well-being of our city, and we're dedicated to contributing to its growth and resilience."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "We're available around the clock to handle any electrical emergency, big or small."
+        },
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team consists of highly trained and licensed electricians with years of experience in Minneapolis homes and businesses."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "We provide clear and accurate estimates before any work begins, so you know exactly what to expect."
+        },
+        {
+          "title": "Guaranteed Work",
+          "description": "We stand behind our workmanship with a comprehensive guarantee, ensuring your satisfaction."
+        }
+      ],
+      "ctaHeadline": "Get Immediate Electrical Assistance",
+      "ctaSubline": "Call now for rapid response and expert solutions."
+    },
+    "services": [
+      {
+        "slug": "emergency-electrical-repairs",
+        "name": "Emergency Electrical Repairs",
+        "shortDescription": "24/7 emergency electrical services for Minneapolis homes and businesses.",
+        "description": "When an electrical emergency strikes in Minneapolis, you need help fast. Whether it's a downed power line after a summer thunderstorm, a frozen pipe bursting near electrical wiring in the dead of winter, or a sudden power outage in your North Loop condo, Minneapolis Emergency Electrical Services is ready to respond. We understand the urgency of these situations and the potential dangers they pose. Our experienced electricians are equipped to handle any electrical emergency, from troubleshooting faulty wiring to restoring power to your entire home or business. We arrive promptly, assess the situation quickly, and implement effective solutions to get your electrical system back up and running safely. We're familiar with the unique challenges posed by Minneapolis's climate and housing stock, ensuring that our repairs are built to last. We handle everything from blown fuses in a classic Uptown brownstone to complete power failures in a modern downtown office building. \n\nOur emergency services include: power outage restoration, downed power line repair, electrical fire damage repair, faulty wiring repair, and surge protection. We prioritize safety and efficiency in every job we undertake.",
+        "process": [
+          "Step 1: Call our 24/7 emergency hotline.",
+          "Step 2: We dispatch an experienced electrician to your location immediately.",
+          "Step 3: Our electrician assesses the situation and provides a clear explanation of the problem and the solution.",
+          "Step 4: We perform the necessary repairs quickly and efficiently, ensuring your safety and satisfaction."
+        ],
+        "benefits": [
+          "Rapid response time",
+          "Experienced and licensed electricians",
+          "Upfront pricing",
+          "Guaranteed workmanship"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes an electrical emergency?",
+            "answer": "Any situation that poses an immediate threat to safety or property, such as sparking wires, downed power lines, or a complete power outage, is considered an electrical emergency."
+          },
+          {
+            "question": "How quickly can you respond to an emergency call?",
+            "answer": "We strive to arrive at your location as quickly as possible, typically within an hour, depending on traffic and location within the Minneapolis metro area."
+          },
+          {
+            "question": "Are your electricians licensed and insured?",
+            "answer": "Yes, all of our electricians are fully licensed and insured for your protection and peace of mind."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-panel-upgrades",
+        "name": "Electrical Panel Upgrades",
+        "shortDescription": "Upgrade your electrical panel for increased capacity and safety.",
+        "description": "Many older Minneapolis homes, especially those in neighborhoods like Southwest Minneapolis with its charming pre-war architecture, have outdated electrical panels that can't handle the demands of modern appliances and electronics. If you're experiencing frequent tripped breakers, flickering lights, or are planning a home renovation that will increase your electrical load, an electrical panel upgrade is essential. Minneapolis Emergency Electrical Services can assess your current electrical panel and recommend the appropriate upgrade to meet your needs. We handle everything from replacing outdated fuse boxes to installing high-capacity circuit breaker panels. \n\nOur electrical panel upgrade services include: panel inspection and assessment, load calculation, panel replacement and installation, circuit breaker replacement, and grounding system upgrades. We ensure that all work is performed to code and meets the highest safety standards. Upgrading your electrical panel can provide increased safety, prevent electrical fires, and ensure that your home can handle the electrical demands of modern living.",
+        "process": [
+          "Step 1: Schedule an electrical panel inspection.",
+          "Step 2: We assess your electrical needs and recommend the appropriate panel upgrade.",
+          "Step 3: We obtain any necessary permits.",
+          "Step 4: We install the new electrical panel and ensure it meets all safety standards."
+        ],
+        "benefits": [
+          "Increased electrical capacity",
+          "Improved safety",
+          "Prevention of electrical fires",
+          "Compliance with electrical codes"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need an electrical panel upgrade?",
+            "answer": "Signs include frequent tripped breakers, flickering lights, burning smells, and an outdated fuse box."
+          },
+          {
+            "question": "How long does an electrical panel upgrade take?",
+            "answer": "The duration of an electrical panel upgrade typically ranges from 4 to 8 hours, depending on the complexity of the job."
+          },
+          {
+            "question": "Do I need a permit for an electrical panel upgrade?",
+            "answer": "Yes, a permit is required for electrical panel upgrades in Minneapolis. We will handle the permit process for you."
+          }
+        ]
+      },
+      {
+        "slug": "wiring-and-rewiring",
+        "name": "Wiring and Rewiring Services",
+        "shortDescription": "Expert wiring and rewiring services for homes & businesses in Minneapolis.",
+        "description": "Outdated or damaged wiring can be a significant safety hazard in Minneapolis homes and businesses, particularly in older structures found in areas like Northeast Minneapolis. Minneapolis Emergency Electrical Services offers comprehensive wiring and rewiring services to ensure the safety and reliability of your electrical system. Whether you're renovating a historic home or need to replace damaged wiring in your commercial building, our experienced electricians can handle the job. We use high-quality materials and follow strict safety protocols to ensure that your wiring meets all current codes and standards. \n\nOur wiring and rewiring services include: complete home rewiring, partial rewiring, wiring repair, new construction wiring, and electrical outlet installation. We are experienced working with the unique electrical systems found in Minneapolis's diverse housing stock.",
+        "process": [
+          "Step 1: Schedule a wiring inspection.",
+          "Step 2: We assess your wiring needs and provide a detailed proposal.",
+          "Step 3: We obtain any necessary permits.",
+          "Step 4: We perform the wiring or rewiring services according to code and safety standards."
+        ],
+        "benefits": [
+          "Improved safety",
+          "Increased property value",
+          "Compliance with electrical codes",
+          "Reduced risk of electrical fires"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of faulty wiring?",
+            "answer": "Signs of faulty wiring include flickering lights, burning smells, discolored outlets, and frequent tripped breakers."
+          },
+          {
+            "question": "How long does rewiring a house take?",
+            "answer": "The duration of rewiring a house depends on the size and complexity of the project, but typically takes several days to a week."
+          },
+          {
+            "question": "Is it safe to live in a house while it's being rewired?",
+            "answer": "It is generally not recommended to live in a house while it's being rewired due to safety concerns and disruptions."
+          }
+        ]
+      },
+      {
+        "slug": "lighting-installation",
+        "name": "Lighting Installation",
+        "shortDescription": "Professional lighting installation services for homes and businesses.",
+        "description": "Proper lighting can enhance the beauty, functionality, and security of your Minneapolis home or business. Whether you're looking to install recessed lighting in your kitchen, upgrade your outdoor lighting for added security, or add stylish pendant lights to your dining room, Minneapolis Emergency Electrical Services can help. We offer a wide range of lighting installation services to meet your needs and budget. We can help you choose the right fixtures, install them properly, and ensure that they are energy-efficient. \n\nOur lighting installation services include: recessed lighting installation, outdoor lighting installation, security lighting installation, landscape lighting installation, and ceiling fan installation. We are familiar with the latest lighting trends and technologies, ensuring that your lighting is both stylish and functional.",
+        "process": [
+          "Step 1: Schedule a lighting consultation.",
+          "Step 2: We discuss your lighting needs and preferences and provide recommendations.",
+          "Step 3: We provide a detailed estimate for the lighting installation.",
+          "Step 4: We install the lighting fixtures according to code and safety standards."
+        ],
+        "benefits": [
+          "Improved aesthetics",
+          "Increased energy efficiency",
+          "Enhanced security",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of LED lighting?",
+            "answer": "LED lighting is more energy-efficient, longer-lasting, and produces less heat than traditional incandescent lighting."
+          },
+          {
+            "question": "How much does lighting installation cost?",
+            "answer": "The cost of lighting installation varies depending on the type of fixtures, the complexity of the installation, and the number of fixtures being installed."
+          },
+          {
+            "question": "Do you offer smart lighting installation?",
+            "answer": "Yes, we offer smart lighting installation services, allowing you to control your lights remotely."
+          }
+        ]
+      },
+      {
+        "slug": "outlet-and-switch-repair",
+        "name": "Outlet and Switch Repair",
+        "shortDescription": "Repairing and replacing faulty outlets and switches.",
+        "description": "Faulty outlets and switches can be a safety hazard and inconvenience in any Minneapolis home or business. If you're experiencing problems with your outlets or switches, such as sparking, overheating, or not working at all, Minneapolis Emergency Electrical Services can help. We offer comprehensive outlet and switch repair and replacement services to ensure the safety and reliability of your electrical system. We can quickly diagnose the problem and provide an effective solution to get your outlets and switches working properly again. We're experienced in handling the older wiring systems commonly found in Minneapolis's historic homes.\n\nOur outlet and switch repair services include: outlet repair, outlet replacement, switch repair, switch replacement, GFCI outlet installation, and AFCI outlet installation. We prioritize safety and efficiency in every job we undertake.",
+        "process": [
+          "Step 1: Schedule an outlet and switch inspection.",
+          "Step 2: We assess the situation and provide a clear explanation of the problem and the solution.",
+          "Step 3: We perform the necessary repairs or replacements quickly and efficiently, ensuring your safety and satisfaction."
+        ],
+        "benefits": [
+          "Improved safety",
+          "Increased convenience",
+          "Prevention of electrical hazards",
+          "Compliance with electrical codes"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of a faulty outlet or switch?",
+            "answer": "Signs of a faulty outlet or switch include sparking, overheating, discoloration, and not working at all."
+          },
+          {
+            "question": "What is a GFCI outlet?",
+            "answer": "A GFCI (Ground Fault Circuit Interrupter) outlet is a special type of outlet that is designed to protect against electrical shock in wet areas such as bathrooms and kitchens."
+          },
+          {
+            "question": "How much does it cost to repair an outlet or switch?",
+            "answer": "The cost to repair an outlet or switch varies depending on the complexity of the job and the type of outlet or switch being repaired."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-inspections",
+        "name": "Electrical Inspections",
+        "shortDescription": "Thorough electrical safety inspections for peace of mind.",
+        "description": "Whether you're buying a new home in Eden Prairie, selling your property in St. Paul, or simply want to ensure the safety of your existing electrical system, Minneapolis Emergency Electrical Services offers comprehensive electrical inspections. Our experienced electricians will thoroughly inspect your electrical system, identify any potential hazards, and provide you with a detailed report outlining our findings. We'll check everything from your electrical panel and wiring to your outlets and switches, ensuring that your electrical system meets all current codes and standards. Given the age of many homes in the Twin Cities, an electrical inspection is a smart preventative measure.\n\nOur electrical inspection services include: panel inspection, wiring inspection, outlet and switch inspection, grounding system inspection, and code compliance inspection. We provide you with a detailed report outlining our findings and recommendations.",
+        "process": [
+          "Step 1: Schedule an electrical inspection.",
+          "Step 2: Our experienced electrician performs a thorough inspection of your electrical system.",
+          "Step 3: We provide you with a detailed report outlining our findings and recommendations."
+        ],
+        "benefits": [
+          "Improved safety",
+          "Prevention of electrical hazards",
+          "Compliance with electrical codes",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have an electrical inspection?",
+            "answer": "It is recommended to have an electrical inspection every 3-5 years, or whenever you are buying or selling a property."
+          },
+          {
+            "question": "What is included in an electrical inspection report?",
+            "answer": "An electrical inspection report includes a detailed assessment of your electrical system, identifying any potential hazards and recommending necessary repairs or upgrades."
+          },
+          {
+            "question": "How long does an electrical inspection take?",
+            "answer": "An electrical inspection typically takes 1-3 hours, depending on the size and complexity of the property."
+          }
+        ]
+      },
+      {
+        "slug": "generator-installation",
+        "name": "Generator Installation",
+        "shortDescription": "Expert generator installation services for backup power during outages.",
+        "description": "Minneapolis winters are notorious for power outages caused by heavy snow and ice storms. A generator can provide essential backup power to keep your home or business running smoothly during these emergencies. Minneapolis Emergency Electrical Services offers professional generator installation services to ensure that you're prepared for any power outage. We can help you choose the right generator for your needs and budget, and install it properly and safely. We understand the importance of reliable backup power in Minneapolis, especially for homeowners and businesses located in areas prone to power outages.\n\nOur generator installation services include: generator selection, generator installation, transfer switch installation, and maintenance services. We ensure that your generator is properly installed and maintained to provide reliable backup power when you need it most.",
+        "process": [
+          "Step 1: Schedule a generator consultation.",
+          "Step 2: We assess your power needs and recommend the appropriate generator.",
+          "Step 3: We install the generator and transfer switch according to code and safety standards.",
+          "Step 4: We provide ongoing maintenance services to ensure your generator is always ready when you need it."
+        ],
+        "benefits": [
+          "Reliable backup power",
+          "Protection against power outages",
+          "Increased comfort and security",
+          "Prevention of property damage"
+        ],
+        "faq": [
+          {
+            "question": "What size generator do I need?",
+            "answer": "The size of generator you need depends on the amount of power you need to run your essential appliances and equipment."
+          },
+          {
+            "question": "What is a transfer switch?",
+            "answer": "A transfer switch is a device that automatically switches your power source from the utility grid to the generator during a power outage."
+          },
+          {
+            "question": "How often should I service my generator?",
+            "answer": "It is recommended to service your generator annually to ensure it is running properly."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "St. Paul",
+        "slug": "st-paul-mn",
+        "state": "MN",
+        "content": "Minneapolis Emergency Electrical Services is proud to offer comprehensive electrical services to the residents and businesses of St. Paul, Minnesota. From the historic Victorian-era homes along Summit Avenue to the bustling commercial districts, we understand the unique electrical needs of this vibrant city. Our experienced electricians are equipped to handle everything from knob-and-tube wiring upgrades in older homes to modern electrical installations in new construction. We know St. Paul. \n\nWe understand that St. Paul's extreme cold winters can put a strain on your electrical systems, leading to increased demand and potential problems. That's why we offer 24/7 emergency electrical services to ensure your safety and comfort during the harshest weather conditions. Whether you need a quick repair or a complete electrical overhaul, we're here to help.",
+        "localContext": "St. Paul is a city known for its beautiful Victorian architecture, particularly along Summit Avenue, and experiences extremely cold winters.",
+        "nearbyAreas": [
+          "Minneapolis",
+          "West St. Paul",
+          "Maplewood"
+        ]
+      },
+      {
+        "city": "Plymouth",
+        "slug": "plymouth-mn",
+        "state": "MN",
+        "content": "Minneapolis Emergency Electrical Services is dedicated to providing top-notch electrical services to the community of Plymouth, Minnesota. With its established suburban homes built primarily in the 1970s and 80s, Plymouth presents unique electrical challenges. Our skilled electricians are adept at handling everything from updating outdated electrical panels to installing modern lighting solutions.\n\nWe recognize that Plymouth's extreme cold winters can cause increased electrical demand and potential issues. Our 24/7 emergency services are available to ensure your home's electrical system is functioning safely and efficiently, no matter the weather. From troubleshooting flickering lights to complete home rewiring, we've got you covered in Plymouth.",
+        "localContext": "Plymouth features many homes built in the 1970s and 80s and experiences extremely cold winters, requiring reliable electrical systems.",
+        "nearbyAreas": [
+          "Maple Grove",
+          "Minnetonka",
+          "Wayzata"
+        ]
+      },
+      {
+        "city": "Eden Prairie",
+        "slug": "eden-prairie-mn",
+        "state": "MN",
+        "content": "Minneapolis Emergency Electrical Services is pleased to serve the residents and businesses of Eden Prairie, Minnesota. Known for its well-planned developments constructed in the 1980s and 90s, Eden Prairie requires electrical services that are both reliable and up-to-date. Our experienced electricians are proficient in addressing the electrical needs of these homes, from installing energy-efficient lighting to upgrading electrical panels to meet modern demands.\n\nWe understand that Eden Prairie's extreme cold winters can put a significant strain on your electrical systems. That's why we offer 24/7 emergency electrical services to ensure your safety and comfort throughout the year. Whether you need a minor repair or a major electrical upgrade, we're here to help you in Eden Prairie.",
+        "localContext": "Eden Prairie is characterized by planned residential developments from the 1980s and 90s and experiences extremely cold winters.",
+        "nearbyAreas": [
+          "Minnetonka",
+          "Hopkins",
+          "Chanhassen"
+        ]
+      },
+      {
+        "city": "Maple Grove",
+        "slug": "maple-grove-mn",
+        "state": "MN",
+        "content": "Minneapolis Emergency Electrical Services is proud to offer its services to the growing community of Maple Grove, Minnesota. With its family-friendly developments built in the 1990s and 2000s, Maple Grove presents a unique set of electrical needs. From installing new outlets and lighting fixtures to troubleshooting electrical problems, our skilled electricians are equipped to handle any job.\n\nWe understand that Maple Grove's extreme cold winters can impact your electrical systems. That's why we offer 24/7 emergency services to ensure your home or business remains safe and comfortable. Whether it's a power outage or a faulty circuit, we're here to provide prompt and reliable service in Maple Grove.",
+        "localContext": "Maple Grove is known for its family-oriented developments from the 1990s and 2000s and experiences extremely cold winters.",
+        "nearbyAreas": [
+          "Plymouth",
+          "Osseo",
+          "Rogers"
+        ]
+      },
+      {
+        "city": "Bloomington",
+        "slug": "bloomington-mn",
+        "state": "MN",
+        "content": "Minneapolis Emergency Electrical Services is dedicated to providing exceptional electrical services to the residents and businesses of Bloomington, Minnesota. With its established ranch-style homes built in the 1960s and 70s, Bloomington presents unique electrical considerations. Our experienced electricians are skilled in addressing the specific electrical needs of these homes, from upgrading outdated wiring to installing modern electrical systems.\n\nWe understand that Bloomington's extreme cold winters can put a strain on your electrical system. That's why we offer 24/7 emergency electrical services to ensure your home's safety and comfort throughout the year. Whether you need a minor repair or a major electrical upgrade, we are ready to help you in Bloomington.",
+        "localContext": "Bloomington features many ranch-style homes built in the 1960s and 70s and experiences extremely cold winters.",
+        "nearbyAreas": [
+          "Richfield",
+          "Edina",
+          "Eagan"
+        ]
+      },
+      {
+        "city": "Minnetonka",
+        "slug": "minnetonka-mn",
+        "state": "MN",
+        "content": "Minneapolis Emergency Electrical Services proudly serves the community of Minnetonka, MN, providing reliable and efficient electrical solutions. We understand the diverse electrical needs of Minnetonka homes and businesses, from older residences needing updates to modern constructions requiring advanced systems. Our skilled electricians are equipped to handle any project, big or small.\n\nMinnetonka's harsh winters can take a toll on electrical systems. That's why we offer 24/7 emergency service, ensuring your safety and comfort during power outages or other electrical emergencies. Whether you need a simple repair or a complete rewiring, we are committed to providing top-quality service in Minnetonka.",
+        "localContext": "Minnetonka is a thriving suburban community with a mix of older and newer homes, and experiences extremely cold winters.",
+        "nearbyAreas": [
+          "Plymouth",
+          "Eden Prairie",
+          "Hopkins"
+        ]
+      },
+      {
+        "city": "Richfield",
+        "slug": "richfield-mn",
+        "state": "MN",
+        "content": "Minneapolis Emergency Electrical Services is committed to providing exceptional electrical services to the residents and businesses of Richfield, Minnesota. As a community with a mix of older and newer homes, Richfield presents unique electrical challenges. Our experienced electricians are skilled in addressing the specific electrical needs of these properties, from upgrading outdated wiring to installing modern, energy-efficient systems.\n\nWe understand that Richfield's extreme cold winters can place a significant burden on your electrical systems. That's why we offer 24/7 emergency electrical services to ensure your safety and comfort are always a priority. Whether you require a minor repair or a major electrical overhaul, we are here to help you in Richfield.",
+        "localContext": "Richfield features a diverse housing stock and experiences extremely cold winters.",
+        "nearbyAreas": [
+          "Bloomington",
+          "Minneapolis",
+          "Edina"
+        ]
+      },
+      {
+        "city": "Edina",
+        "slug": "edina-mn",
+        "state": "MN",
+        "content": "Minneapolis Emergency Electrical Services is pleased to offer comprehensive electrical services to the residents and businesses of Edina, Minnesota. Known for its well-maintained homes and upscale commercial areas, Edina demands electrical services that are both reliable and aesthetically pleasing. Our experienced electricians are proficient in addressing the electrical needs of this discerning community, from installing designer lighting to troubleshooting complex electrical systems.\n\nWe understand that Edina's extreme cold winters can impact your electrical systems. That's why we offer 24/7 emergency electrical services to ensure your safety and comfort. Whether you need a minor repair or a major electrical upgrade, we're here to help in Edina.",
+        "localContext": "Edina is an affluent suburb with high standards for home maintenance and experiences extremely cold winters.",
+        "nearbyAreas": [
+          "Richfield",
+          "Bloomington",
+          "St. Louis Park"
+        ]
+      },
+      {
+        "city": "Brooklyn Park",
+        "slug": "brooklyn-park-mn",
+        "state": "MN",
+        "content": "Minneapolis Emergency Electrical Services is dedicated to providing top-quality electrical services to the growing community of Brooklyn Park, Minnesota. With a diverse range of homes and businesses, Brooklyn Park presents a variety of electrical needs. Our skilled electricians are equipped to handle everything from basic repairs to complex installations.\n\nWe understand that Brooklyn Park's extreme cold winters can put a strain on your electrical system, leading to increased demand. That's why we offer 24/7 emergency electrical services to ensure your safety and comfort. Whether you need a quick repair or a complete electrical upgrade, we're here to help in Brooklyn Park.",
+        "localContext": "Brooklyn Park is a diverse suburb with a mix of residential and commercial properties, and experiences extremely cold winters.",
+        "nearbyAreas": [
+          "Maple Grove",
+          "Plymouth",
+          "Brooklyn Center"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Emergency Electrical Repair",
+        "text": "I had a power outage in the middle of the night during a blizzard. Minneapolis Emergency Electrical Services responded quickly and had my power restored within a couple of hours. The electrician, Dave, was professional, courteous, and explained everything clearly. I highly recommend them!",
+        "date": "2025-03-08"
+      },
+      {
+        "name": "John K.",
+        "rating": 4,
+        "service": "Electrical Panel Upgrade",
+        "text": "My old electrical panel was outdated and couldn't handle the load of my new appliances. Minneapolis Emergency Electrical Services upgraded my panel to a new, high-capacity model. The work was done efficiently and professionally. My only minor complaint was the communication leading up to the install could have been a bit better, but overall a great experience.",
+        "date": "2025-04-15"
+      },
+      {
+        "name": "Emily L.",
+        "rating": 5,
+        "service": "Lighting Installation",
+        "text": "I hired Minneapolis Emergency Electrical Services to install recessed lighting in my kitchen and pendant lights in my dining room. I am thrilled with the results! The lighting has completely transformed the look and feel of my home. The electrician, Mark, was meticulous and paid attention to every detail.",
+        "date": "2025-05-22"
+      },
+      {
+        "name": "David P.",
+        "rating": 5,
+        "service": "Wiring Repair",
+        "text": "I had some faulty wiring in my basement that was causing flickering lights and tripping breakers. Minneapolis Emergency Electrical Services quickly identified the problem and repaired the wiring. I feel much safer knowing that my electrical system is in good condition.",
+        "date": "2025-06-01"
+      },
+      {
+        "name": "Karen S.",
+        "rating": 4,
+        "service": "Outlet and Switch Repair",
+        "text": "I had a couple of outlets that weren't working properly. Minneapolis Emergency Electrical Services came out and quickly repaired them. The electrician was friendly and professional. I appreciated their prompt service.",
+        "date": "2025-07-10"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Generator Installation",
+        "text": "After losing power multiple times last winter, I decided to invest in a generator. Minneapolis Emergency Electrical Services helped me choose the right generator for my needs and installed it quickly and efficiently. I now have peace of mind knowing that I'll have backup power during the next outage.",
+        "date": "2025-08-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Minneapolis Emergency Electrician | 24/7 Service",
+        "description": "Rapid response for electrical emergencies in Minneapolis, MN. Licensed electricians, upfront pricing. Call now!"
+      },
+      "about": {
+        "title": "About Minneapolis Emergency Electrical Services",
+        "description": "Learn about our commitment to quality electrical services in the Minneapolis area. Experienced, local electricians you can trust."
+      },
+      "services": {
+        "title": "Electrical Services | Minneapolis Emergency Electrician",
+        "description": "Comprehensive electrical services for Minneapolis homes and businesses. Repairs, upgrades, installations, and more."
+      },
+      "contact": {
+        "title": "Contact Minneapolis Emergency Electrical Services",
+        "description": "Get in touch for fast, reliable electrical services. Call us today for emergency assistance or to schedule an appointment."
+      },
+      "reviews": {
+        "title": "Customer Reviews | Minneapolis Electrician",
+        "description": "Read reviews from satisfied customers in Minneapolis. See why we're the trusted choice for electrical services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Minneapolis Emergency Electrician",
+        "description": "We provide electrical services throughout the Minneapolis metro area. See our service area for a complete list of locations."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "emergency-electrical-repairs": "/images/service-emergency-electrical-repairs.webp",
+      "electrical-panel-upgrades": "/images/service-electrical-panel-upgrades.webp",
+      "wiring-and-rewiring": "/images/service-wiring-and-rewiring.webp",
+      "lighting-installation": "/images/service-lighting-installation.webp",
+      "outlet-and-switch-repair": "/images/service-outlet-and-switch-repair.webp",
+      "electrical-inspections": "/images/service-electrical-inspections.webp",
+      "generator-installation": "/images/service-generator-installation.webp"
+    },
+    "servicesResponsive": {
+      "emergency-electrical-repairs": {
+        "src": "/images/service-emergency-electrical-repairs.webp",
+        "srcset": "/images/service-emergency-electrical-repairs-400w.webp 400w, /images/service-emergency-electrical-repairs-800w.webp 800w, /images/service-emergency-electrical-repairs-1200w.webp 1200w, /images/service-emergency-electrical-repairs.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-panel-upgrades": {
+        "src": "/images/service-electrical-panel-upgrades.webp",
+        "srcset": "/images/service-electrical-panel-upgrades-400w.webp 400w, /images/service-electrical-panel-upgrades-800w.webp 800w, /images/service-electrical-panel-upgrades-1200w.webp 1200w, /images/service-electrical-panel-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wiring-and-rewiring": {
+        "src": "/images/service-wiring-and-rewiring.webp",
+        "srcset": "/images/service-wiring-and-rewiring-400w.webp 400w, /images/service-wiring-and-rewiring-800w.webp 800w, /images/service-wiring-and-rewiring-1200w.webp 1200w, /images/service-wiring-and-rewiring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lighting-installation": {
+        "src": "/images/service-lighting-installation.webp",
+        "srcset": "/images/service-lighting-installation-400w.webp 400w, /images/service-lighting-installation-800w.webp 800w, /images/service-lighting-installation-1200w.webp 1200w, /images/service-lighting-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outlet-and-switch-repair": {
+        "src": "/images/service-outlet-and-switch-repair.webp",
+        "srcset": "/images/service-outlet-and-switch-repair-400w.webp 400w, /images/service-outlet-and-switch-repair-800w.webp 800w, /images/service-outlet-and-switch-repair-1200w.webp 1200w, /images/service-outlet-and-switch-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-inspections": {
+        "src": "/images/service-electrical-inspections.webp",
+        "srcset": "/images/service-electrical-inspections-400w.webp 400w, /images/service-electrical-inspections-800w.webp 800w, /images/service-electrical-inspections-1200w.webp 1200w, /images/service-electrical-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "generator-installation": {
+        "src": "/images/service-generator-installation.webp",
+        "srcset": "/images/service-generator-installation-400w.webp 400w, /images/service-generator-installation-800w.webp 800w, /images/service-generator-installation-1200w.webp 1200w, /images/service-generator-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
